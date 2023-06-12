@@ -47,4 +47,3 @@ public class basicStack {
         System.out.println("Top element: " + stack.peek());
     }
 }
-
